@@ -1,1 +1,6 @@
+# Nothing here
+# Nothing here
+# Nothing here
+# Nothing here
+# Nothing here
 *.uasset filter=lfs diff=lfs merge=lfs -text
